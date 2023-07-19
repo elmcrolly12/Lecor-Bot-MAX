@@ -1,8 +1,4 @@
-> <b>🚀 VERSIÓN 1.4.9</b>
- 
-<p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="900"/>
-</p>
+> <b>🚀 VERSIÓN 0.14</b>
 
 <p align="center">
 <a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
