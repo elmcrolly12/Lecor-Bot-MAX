@@ -42,13 +42,6 @@
 </div>
 
 ### ❇️ GRUPOS OFICIALES
-<a href="https://chat.whatsapp.com/EnQgSZuMLFAAfWtuCBE0G3" target="blank"><img src="https://img.shields.io/badge/1️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/ImTnZ3pvmI0Dc5nQNlxVaj" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH" target="blank"><img src="https://img.shields.io/badge/3️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG" target="blank"><img src="https://img.shields.io/badge/4️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/GRLe6IF8Sec7xbJsSBFbla" target="blank"><img src="https://img.shields.io/badge/5️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky" target="blank"><img src="https://img.shields.io/badge/🐈 ᴳᵃᵗᵃᴮᵒᵗ 🌟 ᴰᵒʳʳᵃᵗᴮᵒᵗ 🧿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS" target="blank"><img src="https://img.shields.io/badge/🐈 𝐆𝐚𝐭𝐚𝐁𝐨𝐭 & 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO" target="blank"><img src="https://img.shields.io/badge/💖 🅜🅤🅛🅣🅘 🅑🅞🅣🅢 💖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
@@ -60,7 +53,7 @@
 
 -----
 ### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA POR TERMUX 🫰
-[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PESW8LXXlOI?feature=share)
+[![blog](https://img.shields.io/badge/Instant-Install-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PESW8LXXlOI?feature=share)
 > **Note** Comandos para instalar de forma automática en Termux  
 ```bash
 termux-setup-storage
