@@ -1,4 +1,5 @@
 # Código creado por @gata_dios      
+#Apadtado para lecor-Bot-MAX
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución      
@@ -15,7 +16,6 @@ echo -e "\e[35m
 COMMENT
 
 echo -e "\033[01;93mPreparando instalación...\nPreparing installation...\n\033[0m"
-fi
  
 echo -e "\033[01;32m\033[01mInstalando dependencias!!\nInstalling dependencies!!\n\033[0m" 
 echo -e "\e[36m
